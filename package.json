@@ -1,0 +1,13 @@
+{
+  "name": "testing-practise",
+  "version": "1.0.0",
+  "description": "The odin project javascript testing practise",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Samuel Lönnfors",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
